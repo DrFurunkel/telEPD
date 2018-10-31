@@ -26,7 +26,6 @@
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEpd/libraries/SPI/src}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEpd/libraries/WiFi/src}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEpd/libraries/Wire/src}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEpd/libraries/GxEPD-master/src}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEpd/libraries/GxEPD/src}&quot;"/>
 								</option>
 								<inputType id="io.sloeber.compiler.cpp.sketch.input.2083079786" name="CPP source files" superClass="io.sloeber.compiler.cpp.sketch.input"/>
@@ -40,7 +39,6 @@
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEpd/libraries/SPI/src}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEpd/libraries/WiFi/src}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEpd/libraries/Wire/src}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEpd/libraries/GxEPD-master/src}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEpd/libraries/GxEPD/src}&quot;"/>
 								</option>
 								<inputType id="io.sloeber.compiler.c.sketch.input.139321451" name="C Source Files" superClass="io.sloeber.compiler.c.sketch.input"/>
@@ -54,7 +52,6 @@
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEpd/libraries/SPI/src}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEpd/libraries/WiFi/src}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEpd/libraries/Wire/src}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEpd/libraries/GxEPD-master/src}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEpd/libraries/GxEPD/src}&quot;"/>
 								</option>
 								<inputType id="io.sloeber.compiler.S.sketch.input.2007755754" name="Assembly source files" superClass="io.sloeber.compiler.S.sketch.input"/>
