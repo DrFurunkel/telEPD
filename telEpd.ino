@@ -161,6 +161,16 @@ void showBitmapExample()
 }
 
 
+void guiDrawTelemetryAll()
+{
+
+}
+
+void guiDrawTelemetryBigBar()
+{
+
+}
+
 /*
 void showBoat()
 {
