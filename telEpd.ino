@@ -61,8 +61,6 @@
 // for SPI pin definitions see e.g.:
 // C:\Users\xxx\AppData\Local\Arduino15\packages\esp8266\hardware\esp8266\2.4.2\variants\generic\common.h
 
-GxIO_Class io(SPI, /*CS=D8*/ SS, /*DC=D3*/ 0, /*RST=D4*/ 2); // arbitrary selection of D3(=0), D4(=2), selected for default of GxEPD_Class
-GxEPD_Class display(io /*RST=D4*/ /*BUSY=D2*/); // default selection of D4(=2), D2(=4)
 // Heltec E-Paper 1.54" b/w without RST, BUSY
 //GxEPD_Class display(io, /*RST=D4*/ -1, /*BUSY=D2*/ -1); // no RST, no BUSY
 
@@ -162,6 +160,16 @@ void showBitmapExample()
 	  delay(5000);
 }
 
+
+void guiDrawTelemetryAll()
+{
+
+}
+
+void guiDrawTelemetryBigBar()
+{
+
+}
 
 /*
 void showBoat()
