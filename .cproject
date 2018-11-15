@@ -27,6 +27,13 @@
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEpd/libraries/WiFi/src}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEpd/libraries/Wire/src}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEpd/libraries/GxEPD/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEPD/core/core}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEPD/core/variant}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEPD/libraries/GxEPD/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEPD/libraries/SPI/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEPD/libraries/WiFi/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEPD/libraries/Wire/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEPD/libraries/Adafruit_GFX_Library}&quot;"/>
 								</option>
 								<inputType id="io.sloeber.compiler.cpp.sketch.input.2083079786" name="CPP source files" superClass="io.sloeber.compiler.cpp.sketch.input"/>
 							</tool>
@@ -40,6 +47,13 @@
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEpd/libraries/WiFi/src}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEpd/libraries/Wire/src}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEpd/libraries/GxEPD/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEPD/core/core}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEPD/core/variant}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEPD/libraries/GxEPD/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEPD/libraries/SPI/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEPD/libraries/WiFi/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEPD/libraries/Wire/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEPD/libraries/Adafruit_GFX_Library}&quot;"/>
 								</option>
 								<inputType id="io.sloeber.compiler.c.sketch.input.139321451" name="C Source Files" superClass="io.sloeber.compiler.c.sketch.input"/>
 							</tool>
@@ -53,6 +67,13 @@
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEpd/libraries/WiFi/src}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEpd/libraries/Wire/src}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEpd/libraries/GxEPD/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEPD/core/core}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEPD/core/variant}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEPD/libraries/GxEPD/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEPD/libraries/SPI/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEPD/libraries/WiFi/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEPD/libraries/Wire/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEPD/libraries/Adafruit_GFX_Library}&quot;"/>
 								</option>
 								<inputType id="io.sloeber.compiler.S.sketch.input.2007755754" name="Assembly source files" superClass="io.sloeber.compiler.S.sketch.input"/>
 							</tool>
@@ -87,43 +108,37 @@
 							<builder buildPath="${workspace_loc:/epaperTest}/Release" id="io.sloeber.sketch.builder.363006802" keepEnvironmentInBuildfile="false" managedBuildOn="true" name="Arduino sketch builder" superClass="io.sloeber.sketch.builder"/>
 							<tool id="io.sloeber.tool.sketch.compiler.cpp.326438354" name="Arduino C++ Compiler" superClass="io.sloeber.tool.sketch.compiler.cpp">
 								<option IS_BUILTIN_EMPTY="false" IS_VALUE_EMPTY="false" id="io.sloeber.compiler.cpp.sketch.option.incpath.1826774426" name="Include Paths (-I)" superClass="io.sloeber.compiler.cpp.sketch.option.incpath" valueType="includePath">
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEpd/libraries/Adafruit_GFX_Library}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEpd/libraries/SdFat/src}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEpd/libraries/SPI/src}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEpd/libraries/WiFi/src}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEpd/libraries/Wire/src}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEpd/libraries/GxEPD-master/src}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEpd/core/core}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEpd/core/variant}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEpd/libraries/GxEPD/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEPD/core/core}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEPD/core/variant}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEPD/libraries/GxEPD/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEPD/libraries/SPI/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEPD/libraries/WiFi/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEPD/libraries/Wire/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEPD/libraries/Adafruit_GFX_Library}&quot;"/>
 								</option>
 								<inputType id="io.sloeber.compiler.cpp.sketch.input.279852262" name="CPP source files" superClass="io.sloeber.compiler.cpp.sketch.input"/>
 							</tool>
 							<tool id="io.sloeber.tool.compiler.c.1164266298" name="Arduino C Compiler" superClass="io.sloeber.tool.compiler.c">
 								<option IS_BUILTIN_EMPTY="false" IS_VALUE_EMPTY="false" id="io.sloeber.compiler.c.sketch.option.incpath.370576039" name="Include Paths (-I)" superClass="io.sloeber.compiler.c.sketch.option.incpath" valueType="includePath">
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEpd/libraries/Adafruit_GFX_Library}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEpd/libraries/SdFat/src}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEpd/libraries/SPI/src}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEpd/libraries/WiFi/src}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEpd/libraries/Wire/src}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEpd/libraries/GxEPD-master/src}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEpd/core/core}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEpd/core/variant}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEpd/libraries/GxEPD/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEPD/core/core}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEPD/core/variant}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEPD/libraries/GxEPD/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEPD/libraries/SPI/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEPD/libraries/WiFi/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEPD/libraries/Wire/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEPD/libraries/Adafruit_GFX_Library}&quot;"/>
 								</option>
 								<inputType id="io.sloeber.compiler.c.sketch.input.1903937503" name="C Source Files" superClass="io.sloeber.compiler.c.sketch.input"/>
 							</tool>
 							<tool id="io.sloeber.tool.sketch.compiler.s.581296118" name="Arduino Assembler" superClass="io.sloeber.tool.sketch.compiler.s">
 								<option IS_BUILTIN_EMPTY="false" IS_VALUE_EMPTY="false" id="io.sloeber.compiler.asm.sketch.option.incpath.2042111613" name="Include Paths (-I)" superClass="io.sloeber.compiler.asm.sketch.option.incpath" valueType="includePath">
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEpd/libraries/Adafruit_GFX_Library}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEpd/libraries/SdFat/src}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEpd/libraries/SPI/src}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEpd/libraries/WiFi/src}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEpd/libraries/Wire/src}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEpd/libraries/GxEPD-master/src}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEpd/core/core}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEpd/core/variant}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEpd/libraries/GxEPD/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEPD/core/core}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEPD/core/variant}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEPD/libraries/GxEPD/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEPD/libraries/SPI/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEPD/libraries/WiFi/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEPD/libraries/Wire/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/telEPD/libraries/Adafruit_GFX_Library}&quot;"/>
 								</option>
 								<inputType id="io.sloeber.compiler.S.sketch.input.970458241" name="Assembly source files" superClass="io.sloeber.compiler.S.sketch.input"/>
 							</tool>

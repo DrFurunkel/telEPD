@@ -49,7 +49,7 @@
 		<link>
 			<name>libraries/GxEPD</name>
 			<type>2</type>
-			<location>C:/sloeberdata/Libs/GxEPD</location>
+			<location>C:/Users/kauf510/Documents/Arduino/libraries/GxEPD</location>
 		</link>
 		<link>
 			<name>libraries/SPI</name>
